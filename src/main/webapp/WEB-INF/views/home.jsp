@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <title>Livro de Java, Android, Iphone, Ruby, PHP e muito mais - Casa do Código	</title>
 </head>
+<canvas id="canvas-1"></canvas>
 <body>
 	<h1>Casa do código</h1>
 	<table>
